@@ -1,3 +1,4 @@
+#Драгунова Анастасия Евгеньевна Группа 44-22-115 Вариант 6 Задание 3
 import tkinter
 import numpy as np
 def func():
